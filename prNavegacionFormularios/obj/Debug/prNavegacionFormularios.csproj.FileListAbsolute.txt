@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\prNavegacionFormularios\bin\Debug\prNavegacionFormularios.exe.config
+C:\Users\User\source\repos\prNavegacionFormularios\bin\Debug\prNavegacionFormularios.exe
+C:\Users\User\source\repos\prNavegacionFormularios\bin\Debug\prNavegacionFormularios.pdb
+C:\Users\User\source\repos\prNavegacionFormularios\obj\Debug\prNavegacionFormularios.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prNavegacionFormularios\obj\Debug\prNavegacionFormularios.fmrVentas.resources
+C:\Users\User\source\repos\prNavegacionFormularios\obj\Debug\prNavegacionFormularios.frmClientes.resources
+C:\Users\User\source\repos\prNavegacionFormularios\obj\Debug\prNavegacionFormularios.frmCompras.resources
+C:\Users\User\source\repos\prNavegacionFormularios\obj\Debug\prNavegacionFormularios.frmPrincipal.resources
+C:\Users\User\source\repos\prNavegacionFormularios\obj\Debug\prNavegacionFormularios.Properties.Resources.resources
+C:\Users\User\source\repos\prNavegacionFormularios\obj\Debug\prNavegacionFormularios.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prNavegacionFormularios\obj\Debug\prNavegacionFormularios.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prNavegacionFormularios\obj\Debug\prNavegacionFormularios.exe
+C:\Users\User\source\repos\prNavegacionFormularios\obj\Debug\prNavegacionFormularios.pdb
